@@ -22,6 +22,10 @@
     "key-spacing"          : 0,
     "jsx-quotes"           : [2, "prefer-single"],
     "max-len"              : [2, 120, 2],
-    "object-curly-spacing" : [2, "always"]
+    "object-curly-spacing" : [2, "always"],
+    "indent"               : 0,
+    "react/jsx-indent"     : 0,
+    "react/jsx-boolean-value": 0,
+    "react/jsx-indent-props": 0
   }
 }

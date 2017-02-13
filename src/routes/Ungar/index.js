@@ -6,7 +6,7 @@ export default () => ({
         require.ensure([], (require) => {
             /*  Webpack - use require callback to define
               dependencies for bundling   */
-            const Ungar = require('./components/UngarView').default
+            const Ungar = UngarView  // require('./components/UngarView').default
 
             /*  Return getComponent   */
             cb(null, Ungar)
