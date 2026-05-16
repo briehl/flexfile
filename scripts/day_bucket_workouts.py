@@ -12,7 +12,9 @@ def make_workout_buckets(input_path: Path, output_path: Path):
     buckets = [{}, {}, {}, {}, {}, {}, {}]
     print(buckets)
     for workout in parsed:
-        weekday = datetime.fromisoformat(workout["filename"]).weekday()
+        weekday = datetime.fromisoformat(workout["filename"]).weekday() + 1
+        if weekday > 6:
+            weekday = 0
         buckets[weekday][workout["filename"]] = workout
 
     with open(output_path, "w") as out_json:
