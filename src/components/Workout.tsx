@@ -47,13 +47,7 @@ function Workout({date}: {date: Date}) {
         week += 52;
     }
     const randoWorkout = workoutIds[week % workoutIds.length];
-    // const numWorkouts = workoutIds.length;
-    // const randoWorkout = workoutIds[Math.floor(Math.random() * numWorkouts)];
-    console.log(week + ": " + week % workoutIds.length + ": " + randoWorkout);
     const workout: WorkoutT | undefined = data[day][randoWorkout];
-    for (let d=0; d<data.length; d++) {
-        console.log(d + ': ' + Object.keys(data[d]).length);
-    }
     if (workout === undefined) {
         return (<>No workout found for date {randoWorkout}, please reload or just go outside.</>);
     }
