@@ -160,7 +160,6 @@
     height: 48px;
   }
 }
-
 .ticks {
   position: relative;
   width: 100%;
@@ -181,4 +180,17 @@
     right: 0;
     border-right-color: var(--border);
   }
+}
+
+.exercise {
+  border: 1px solid grey;
+  padding: 0.5rem;
+}
+
+.exerciseList {
+  padding-top: 1rem;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 0.1rem;
+  justify-content: center;
 }
