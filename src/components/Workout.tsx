@@ -10,11 +10,18 @@ interface WorkoutDay {
 
 
 function Exercise({name, reps, video}: ExerciseT) {
+    let videoElem = <div className="exercise">{video}</div>
+    if (video == null) {
+        const nameConvert = name.replaceAll(" ", "+") + "+exercise";
+        videoElem = <div className="exercise">
+            <a href={`https://www.youtube.com/results?search_query=${nameConvert}`} target="_blank">YouTube</a>
+        </div>
+    }
     return (
         <>
             <div className="exercise">{name}</div>
             <div className="exercise">{reps}</div>
-            <div className="exercise">{video}</div>
+            {videoElem}
         </>
     );
 }

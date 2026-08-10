@@ -194,3 +194,11 @@
   gap: 0.1rem;
   justify-content: center;
 }
+
+.date {
+  padding-top: 1rem;
+  & > .current {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}

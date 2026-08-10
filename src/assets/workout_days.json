@@ -10,12 +10,12 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "30 in total",
                     "video": null
                 },
                 {
-                    "name": "butt kick",
+                    "name": "butt kicks",
                     "reps": "15 reps each side (30 in total)",
                     "video": null
                 },
@@ -43,7 +43,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -131,7 +131,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "30:30",
                     "video": null
                 },
@@ -147,7 +147,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -167,7 +167,7 @@
                     "video": null
                 },
                 {
-                    "name": "p lank",
+                    "name": "plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -307,7 +307,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -395,7 +395,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "30:30",
                     "video": null
                 },
@@ -411,7 +411,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -431,7 +431,7 @@
                     "video": null
                 },
                 {
-                    "name": "p lank",
+                    "name": "plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -571,7 +571,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -659,7 +659,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "30:30",
                     "video": null
                 },
@@ -675,7 +675,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -695,7 +695,7 @@
                     "video": null
                 },
                 {
-                    "name": "p lank",
+                    "name": "plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -835,7 +835,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -923,7 +923,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "30:30",
                     "video": null
                 },
@@ -939,7 +939,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -959,7 +959,7 @@
                     "video": null
                 },
                 {
-                    "name": "p lank",
+                    "name": "plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -1099,7 +1099,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -1187,7 +1187,7 @@
                     "video": null
                 },
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "30:30",
                     "video": null
                 },
@@ -1203,7 +1203,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -1223,7 +1223,7 @@
                     "video": null
                 },
                 {
-                    "name": "p lank",
+                    "name": "plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -1265,7 +1265,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "butt kick",
+                    "name": "butt kicks",
                     "reps": "16 reps / 20 seconds rest",
                     "video": null
                 },
@@ -1343,7 +1343,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "butt kick",
+                    "name": "butt kicks",
                     "reps": "16 reps / 20 seconds rest",
                     "video": null
                 },
@@ -1567,7 +1567,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -1587,7 +1587,7 @@
                     "video": null
                 },
                 {
-                    "name": "incline p lank",
+                    "name": "incline plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -1598,7 +1598,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "butt kick",
+                    "name": "butt kicks",
                     "reps": "16 reps / 20 seconds rest",
                     "video": null
                 },
@@ -1775,7 +1775,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "40:20",
                     "video": null
                 },
@@ -1795,7 +1795,7 @@
                     "video": null
                 },
                 {
-                    "name": "incline p lank",
+                    "name": "incline plank",
                     "reps": "40:20",
                     "video": null
                 }
@@ -1806,7 +1806,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "butt kick",
+                    "name": "butt kicks",
                     "reps": "16 reps / 20 seconds rest",
                     "video": null
                 },
@@ -2052,7 +2052,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2103,7 +2103,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2154,7 +2154,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2190,7 +2190,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2241,7 +2241,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2282,7 +2282,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2333,7 +2333,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2374,7 +2374,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2430,7 +2430,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2466,7 +2466,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2517,7 +2517,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2568,7 +2568,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2609,7 +2609,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2650,7 +2650,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2701,7 +2701,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2742,7 +2742,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2798,7 +2798,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2834,7 +2834,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2885,7 +2885,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2936,7 +2936,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -2972,7 +2972,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3023,7 +3023,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3064,7 +3064,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3115,7 +3115,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3156,7 +3156,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3212,7 +3212,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3248,7 +3248,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3299,7 +3299,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3350,7 +3350,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3386,7 +3386,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3437,7 +3437,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3478,7 +3478,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3529,7 +3529,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3570,7 +3570,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3626,7 +3626,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3662,7 +3662,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3713,7 +3713,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3764,7 +3764,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3800,7 +3800,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3851,7 +3851,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3892,7 +3892,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -3943,7 +3943,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -5564,7 +5564,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 in total",
                     "video": null
                 },
@@ -5767,7 +5767,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 in total",
                     "video": null
                 },
@@ -5991,7 +5991,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 in total",
                     "video": null
                 },
@@ -6215,7 +6215,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 in total",
                     "video": null
                 },
@@ -7206,7 +7206,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7242,7 +7242,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7288,7 +7288,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7344,7 +7344,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7380,7 +7380,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7436,7 +7436,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7472,7 +7472,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7523,7 +7523,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7564,7 +7564,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7620,7 +7620,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7656,7 +7656,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7702,7 +7702,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7748,7 +7748,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7804,7 +7804,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7840,7 +7840,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7891,7 +7891,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7932,7 +7932,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -7988,7 +7988,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8024,7 +8024,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8070,7 +8070,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8126,7 +8126,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8162,7 +8162,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8218,7 +8218,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8254,7 +8254,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8305,7 +8305,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8346,7 +8346,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8402,7 +8402,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8438,7 +8438,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8484,7 +8484,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8540,7 +8540,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8576,7 +8576,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8632,7 +8632,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8668,7 +8668,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8719,7 +8719,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8760,7 +8760,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8816,7 +8816,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8852,7 +8852,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8898,7 +8898,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8954,7 +8954,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -8990,7 +8990,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -9046,7 +9046,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -9082,7 +9082,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -10450,7 +10450,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 reps",
                     "video": null
                 },
@@ -10659,7 +10659,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 reps",
                     "video": null
                 },
@@ -10847,7 +10847,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 reps",
                     "video": null
                 },
@@ -11056,7 +11056,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 reps",
                     "video": null
                 },
@@ -11265,7 +11265,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "20 reps",
                     "video": null
                 },
@@ -11390,7 +11390,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "10 reps",
                     "video": null
                 },
@@ -11479,7 +11479,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "10 reps",
                     "video": null
                 },
@@ -11521,7 +11521,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "10 reps",
                     "video": null
                 },
@@ -11689,7 +11689,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "10 reps",
                     "video": null
                 },
@@ -11857,7 +11857,7 @@
             "workout_type": "CIRCUIT",
             "exercises": [
                 {
-                    "name": "jumping jack",
+                    "name": "jumping jacks",
                     "reps": "10 reps",
                     "video": null
                 },
@@ -12000,7 +12000,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12056,7 +12056,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12097,7 +12097,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12138,7 +12138,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12194,7 +12194,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12230,7 +12230,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12286,7 +12286,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12322,7 +12322,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12373,7 +12373,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12414,7 +12414,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12470,7 +12470,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12511,7 +12511,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12562,7 +12562,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12598,7 +12598,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12654,7 +12654,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12690,7 +12690,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12741,7 +12741,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12782,7 +12782,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12838,7 +12838,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12879,7 +12879,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12920,7 +12920,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -12976,7 +12976,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13012,7 +13012,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13068,7 +13068,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13104,7 +13104,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13155,7 +13155,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13196,7 +13196,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13252,7 +13252,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13293,7 +13293,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13334,7 +13334,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13390,7 +13390,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13426,7 +13426,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13482,7 +13482,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13518,7 +13518,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13569,7 +13569,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13610,7 +13610,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13666,7 +13666,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13707,7 +13707,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13748,7 +13748,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13804,7 +13804,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13840,7 +13840,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
@@ -13896,7 +13896,7 @@
                     "video": null
                 },
                 {
-                    "name": "s capular wall slides",
+                    "name": "scapular wall slides",
                     "reps": "16 reps in total",
                     "video": null
                 },
